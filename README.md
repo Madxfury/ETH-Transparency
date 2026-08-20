@@ -79,4 +79,4 @@ This dashboard strictly monitors publicly broadcast data on Ethereum Mainnet. Wa
 
 ---
 
-Made with ❤️🔥 by **SANSKAR**
+Made with ❤️‍🔥 by **SANSKAR**

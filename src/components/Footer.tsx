@@ -20,10 +20,10 @@ export const Footer: React.FC = () => {
             <span>Ethereum Blockchain Observatory • Real-Time JSON-RPC</span>
           </div>
 
-          {/* Made with ❤️🔥 by SANSKAR */}
+          {/* Made with ❤️‍🔥 by SANSKAR */}
           <div className="flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#111111] border border-[rgba(255,255,255,0.08)] text-xs text-[#F5F5F5] shadow-sm">
             <span className="text-[#8A8A8A]">Made with</span>
-            <span>❤️🔥</span>
+            <span>❤️‍🔥</span>
             <span className="text-[#8A8A8A]">by</span>
             <span className="font-semibold text-[#8A7CFF] tracking-wide">SANSKAR</span>
           </div>
